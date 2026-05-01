@@ -27,13 +27,17 @@ export const Route = createRootRoute({
       { name: "description", content: "An interactive partner deck for American Dream: 3M sq ft of retail, dining, and entertainment serving 55M people in the NYC metro." },
       { name: "theme-color", content: "#0d0418" },
       { property: "og:title", content: "American Dream — Partner Deck" },
-      { property: "og:description", content: "Lease, sponsor, or activate inside the Western Hemisphere's largest entertainment & retail destination." },
+      { property: "og:description", content: "An interactive partner deck for American Dream: 3M sq ft of retail, dining, and entertainment serving 55M people in the NYC metro." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
       {
         rel: "preconnect",
         href: "https://fonts.googleapis.com",
       },
+      { name: "twitter:title", content: "American Dream — Partner Deck" },
+      { name: "twitter:description", content: "An interactive partner deck for American Dream: 3M sq ft of retail, dining, and entertainment serving 55M people in the NYC metro." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/f0b2e612-aed8-49fd-b90f-23f22a622e99/id-preview-566ec849--7b19aad0-46e4-4d4b-a105-ad5c8f984925.lovable.app-1777644956308.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/f0b2e612-aed8-49fd-b90f-23f22a622e99/id-preview-566ec849--7b19aad0-46e4-4d4b-a105-ad5c8f984925.lovable.app-1777644956308.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
