@@ -4,7 +4,7 @@ A modern and visually engaging mall showcase website built to present shopping m
 
 ## 🌐 Live Demo
 
-👉 **View Live Project:** https://destination-pitch-perfect.lovable.app/
+👉 **[View Live Project](https://destination-pitch-perfect.lovable.app/)**
 
 ## 📌 Overview
 
